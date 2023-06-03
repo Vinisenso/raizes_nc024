@@ -39,3 +39,4 @@ elif len(nomes_selecionados) == 3:
     st.write(text_jog(jog1))
     st.write(text_jog(jog2))
     st.write(text_jog(jog3))
+
